@@ -11507,7 +11507,7 @@
 			 *      } );
 			 *    } );
 			 */
-			"sEmptyTable": "No se encontro ningun registro",
+			"sEmptyTable": "No se encontro registro",
 	
 	
 			/**
